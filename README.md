@@ -1,4 +1,6 @@
 # 🐼Learning-Pandas
+![Static Badge](https://img.shields.io/badge/kaggle-learn-green?link=https%3A%2F%2Fwww.kaggle.com%2Flearn%2Fpandas)
+![Static Badge](https://img.shields.io/badge/pandas-1.5.1-blue)
 Learning Pandas from [Kaggle wine reviews dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)
 ![](dataset-cover.jpg)
 
