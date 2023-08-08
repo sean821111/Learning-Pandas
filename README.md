@@ -1,6 +1,7 @@
 # 🐼Learning-Pandas
 Learning Pandas from [Kaggle wine reviews dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)
-![](https://storage.googleapis.com/kaggle-datasets-images/1442/2584/c583eedd59e12a6c54266c13a50879c4/dataset-cover.jpg)
+<src img="https://storage.googleapis.com/kaggle-datasets-images/1442/2584/c583eedd59e12a6c54266c13a50879c4/dataset-cover.jpg">
+
 
 ## 🍇 Grouping and Sorting
 [kaggle learn- Grouping and Sorting](https://www.kaggle.com/code/residentmario/grouping-and-sorting)
