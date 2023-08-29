@@ -21,3 +21,10 @@ Start from jupyter notebook `summary_and_maps.ipynb`
 1. SUmmary functions `describe()`
 2. Maps `map()`
 3. Missing Data (and replace it!)
+
+## 🧑‍🎓 30 Days of Pandas study plan
+you'll learn from basic data operations like handling missing values to more intermediate concepts like conducting statistical calculations.
+
+Topic including: Data Filtering, String Methods, Data Manipulation, Statistics, Data Aggregation and Data integration.
+
+Start from running `Pandas_30days.ipynb`
