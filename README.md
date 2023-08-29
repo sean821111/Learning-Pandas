@@ -1,5 +1,7 @@
 # 🐼Learning-Pandas
 ![Static Badge](https://img.shields.io/badge/kaggle-learn-green?style=plastic&link=https%3A%2F%2Fwww.kaggle.com%2Flearn%2Fpandas)
+![Static Badge](https://img.shields.io/badge/Leetcode-pandas-navy?style=plastic&link=https%3A%2F%2Fwww.kaggle.com%2Flearn%2Fpandas)
+
 ![Static Badge](https://img.shields.io/badge/pandas-1.5.1-blue?style=plastic)
 
 
@@ -23,6 +25,8 @@ Start from jupyter notebook `summary_and_maps.ipynb`
 3. Missing Data (and replace it!)
 
 ## 🧑‍🎓 30 Days of Pandas study plan
+[Leetcode limited free study plan](https://leetcode.com/studyplan/30-days-of-pandas/)
+
 you'll learn from basic data operations like handling missing values to more intermediate concepts like conducting statistical calculations.
 
 Topic including: Data Filtering, String Methods, Data Manipulation, Statistics, Data Aggregation and Data integration.
